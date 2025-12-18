@@ -1,0 +1,29 @@
+{
+  "name": "music-manager",
+  "version": "1.0.0",
+  "description": "Music manager",
+  "keywords": [
+    "music",
+    "manager",
+    "library"
+  ],
+  "homepage": "https://github.com/cuthbeorht/music-manager#readme",
+  "bugs": {
+    "url": "https://github.com/cuthbeorht/music-manager/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuthbeorht/music-manager.git"
+  },
+  "license": "ISC",
+  "author": "Cuthbeorht",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "electron": "^30.0.0"
+  }
+}
